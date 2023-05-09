@@ -14,7 +14,7 @@ This piece of work is being referred to as "opus" (Latin: "piece of work"), as i
 
 - This is all still very much work in progress and probably always will be.
 - Open Source: all kinds of contributions, feedback and pull requests are welcome
-- Some of the thoughts here are super basic. Don't be offended if something seems trivial. For others it might not be the case and the risk of not writing it down is higher.
+- Some of the thoughts here are super basic. Don't be offended if something seems trivial. For others it might not be the case and the downsides of not writing it down is higher.
 
 
 ## Motivation
@@ -26,4 +26,4 @@ This piece of work is being referred to as "opus" (Latin: "piece of work"), as i
 This opus is about filling the gap. 
 
 
-## To be continued
+## To be continued ... 
