@@ -12,6 +12,8 @@ This piece of work is being referred to as "opus" (Latin: "piece of work"), as i
 
 Most chapters are trying to answer questions in life. A little like a "How to" Guide.
 
+Even if the answers cannot be given (yet), just asking the right questions can provide value by focussing ones thinking and actions.
+
 There are auxiliary chapters introducing fundamental concepts relevant in multiple places. 
 
 Some chapters simply point to other sources and concepts as "further reading" reference.
@@ -59,7 +61,7 @@ The remainder of this opus aids in navigating the inevitable challenges of life 
 
 This is basically the question of what this opus should contain.
 
-As the familiarization with our own life probably clouds our thinking, lets use the bottom up thinking strategy to help compiling a list of the most relevant questions.
+As the familiarization with our own life might clouds our thinking, lets use the bottom up thinking strategy to help compiling a list of the most relevant questions.
 
 Let's consider the case where you suddenly got the task to take care of a new life, a being.
 
@@ -68,9 +70,16 @@ So the first question is:
 
 - What knowledge is helpful for the practical tasks of life? -> Practical Knowledge
 
-As the being probably has a complex physical form, keeping this form healthy is vital for its life.
+
+As the being probably has a complex physical form, keeping this form healthy is vital for the length and quality life.
 
 - How to live healthy?
+- How to take care of ones psychological health? (stress, relaxation, yoga, mediation...)
+
+
+There are many things you need to teach the little one to be independent:
+- How to educate?
+
 
 Not all tasks will be known in advance and it won't be possible to learn everything "by heart". We need to teach more abstract skills.
 
@@ -102,24 +111,31 @@ As the being interactions with other beings, new questions arise:
 - How to pick a partner?
 
 
-The being at one point will be assigned tasks it needs to work through.
+The being at one point will have to complete tasks.
 
 - How to learn efficiently?
 - How to work efficiently?
 - How to prioritise things?
 
 
+Optimising oneself and the immediate surroundings (local) has limitations.
+A reference to game theory: the individual can be seen as a player in a game with rules. 
+When the rules are fixed the individual player can optimise the outcome by understanding the game/rules and choosing the optimal actions.
+In the game of life not all but many rules (society, economy) are man-made and can be challenged.
+So the optimisation problem becomes even more complex, because possible actions include changing the rules of life.
 
-
-- How can we improve the world? 
+- How should the world be for an ideal life?
+- How can we improve the world towards the ideal?
 - How to design robust systems?
+- How much time should one spend in changing the existing system? 
+- How to balance holistic (altruistic) vs. atomistic (egoistic) actions? By giving yourself up easily, no one benefits. 
 
 
 ## How to strike the right balance?
 
-Equilibrium, Balance
-Stability
-Robustness
+- Equilibrium, Balance
+- Stability
+- Robustness
 
 https://de.wikipedia.org/wiki/Mesotes
 
