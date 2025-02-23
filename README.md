@@ -35,6 +35,17 @@ Some chapters simply point to other sources and concepts as "further reading" re
 This opus is about filling the gap. 
 
 
+## tl;dr / Summary / Excerpt
+
+- realise: everything is connected. nothing comes for free & everything comes with something!
+- understand yourself as a self optimising system and try to improve it
+- stay curious: there is more to learn (exploration)
+- stay critical: there are things you should change (exploitation)
+- try to identify and hit the !right! sweet spot balance in everything you do
+- it's a process. try & error
+- do not take anything for granted + be grateful
+- relax: trying the best you can is the best you can do and thereby also enough!
+
 ## What ought to be done?
 
 This is perhaps the superlative of questions.
@@ -128,7 +139,7 @@ So the optimisation problem becomes even more complex, because possible actions 
 - How can we improve the world towards the ideal?
 - How to design robust systems?
 - How much time should one spend in changing the existing system? 
-- How to balance holistic (altruistic) vs. atomistic (egoistic) actions? By giving yourself up easily, no one benefits. 
+- How to balance holistic (altruistic) vs. atomistic (egoistic) actions? By giving yourself up easily, no one benefits.
 
 
 ## How to strike the right balance?
@@ -177,6 +188,8 @@ stay open minded, change as soon as necessary
 “Prejudice is a burden that confuses the past, threatens the future, and renders the present inaccessible.” – Maya Angelou
 
 “Leadership is solving problems. The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help or concluded you do not care. Either case is a failure of leadership.” – Colin Powell
+
+
 
 
 ## To be continued ... 
