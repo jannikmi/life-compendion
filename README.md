@@ -70,14 +70,18 @@ The remainder of this opus aids in navigating the inevitable challenges of life 
 
 ## What are the most significant questions in life?
 
+
 This is basically the question of what this opus should contain.
 
 As the familiarization with our own life might clouds our thinking, lets use the bottom up thinking strategy to help compiling a list of the most relevant questions.
 
 Let's consider the case where you suddenly got the task to take care of a new life, a being.
 
+How do you want to raise that being? What is your goal for that being if you wanted only the best for it?
+
+- What ideals should one thrive towards? 
+
 Obviously there are many practical tasks you directly or indirectly need to handle for the being.
-So the first question is: 
 
 - What knowledge is helpful for the practical tasks of life? -> Practical Knowledge
 
@@ -140,6 +144,16 @@ So the optimisation problem becomes even more complex, because possible actions 
 - How to design robust systems?
 - How much time should one spend in changing the existing system? 
 - How to balance holistic (altruistic) vs. atomistic (egoistic) actions? By giving yourself up easily, no one benefits.
+
+
+## What ideals should one thrive towards?
+
+- Health: the best possible potential. basis for everything else
+- Robustness: stability against all kinds of challenges
+- Flexibility: 
+- Growth, Learning: improving, expanding the potential. not just for yourself
+- Problem Solving
+
 
 
 ## How to strike the right balance?
