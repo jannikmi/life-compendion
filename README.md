@@ -12,11 +12,12 @@ This piece of work is being referred to as "opus" (Latin: "piece of work"), as i
 
 Most chapters are trying to answer questions in life. A little like a "How to" Guide.
 
-Even if the answers cannot be given (yet), just asking the right questions can provide value by focussing ones thinking and actions.
+Even if the answers are not or cannot be given (yet), just asking the right questions can provide value by focussing ones thinking and actions.
 
 There are auxiliary chapters introducing fundamental concepts relevant in multiple places. 
 
 Some chapters simply point to other sources and concepts as "further reading" reference.
+
 
 ## Disclaimers
 
@@ -156,14 +157,19 @@ So the optimisation problem becomes even more complex, because possible actions 
 - Problem Solving
 
 
-
 ## How to strike the right balance?
 
-- Equilibrium, Balance
-- Stability
-- Robustness
+- spectrum from extreme to extreme
+- Equilibrium. State of balance. 
 
 https://de.wikipedia.org/wiki/Mesotes
+
+There sometimes are multiple optima along the spectrum!
+Example: providence and generosity
+Bad extremes: parsimony and profligacy
+
+When to be proactive vs. when to be defensive? Masculine vs. feminine energy.
+
 
 ## How should the world be for an ideal life?
 
@@ -172,17 +178,23 @@ Overall goal:
 
 Derived goals:
 - robustness: the system should be tolerant to flaws and negative effects 
+- error correction: self optimising, self correction, auto-healing
 - adaptability: the system should adapt easily to new terms and requirements
 - sustainability: the system must sustain live on long term
 - health: only healthy individuals can be most productive
 - non-destructiveness, peace: violence and other forms of destructive actions draw energy from the productive system
-- 
 
 
 3 Divisions like in a Company:
 - Operations: keeping the system running. producing food. healing diseases...
 - Research and Development: advancing the possibilities. utilising the advances to improve the system.
 - Management: optimising the system for the best possible output. setting the terms. 
+
+
+Questions:
+- How to allocate the existing work force?
+- How to ideally shape the work force (education, practicing skills...)?
+- How to account for the difference between the need of a skill and the preparation time to get it?
 
 
 ## Problem Solving Strategies
@@ -197,16 +209,38 @@ Derived goals:
 
 ### System Thinking
 
+Input, Control input, Output. 
+
+Complete.
+
+
 ### Concept of Stability
+
+The importance of control and correction mechanisms.
+Wherever these measures are missing, inefficiencies and faults evolve.
+Example: ministry of statistics. wants to be seen as trustworthy. objections will be discredited. the ministry is not well controlled. the quality of the statistics is at risk.
+
+"No plaintiff, no judge." -> control mechanisms fail of
+
+Importance of encouraging error correction. Whistle Blowing!
+
+Can internal only control mechanisms be sufficient?
+
+Concept: Division of powers
 
 
 ## How to get to the truth?
 
+
+Can something be taken for granted? What can be taken for granted?
+Logic, Predicate Logic, ...
+Math?
+
+Fuzziness
+
 keep the currently most suitable mental model
 [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor): choose the most simple explanation
 stay open-minded, change as soon as necessary
-
-
 
 ## Practical Knowledge: 
 
@@ -221,7 +255,6 @@ stay open-minded, change as soon as necessary
 “Prejudice is a burden that confuses the past, threatens the future, and renders the present inaccessible.” – Maya Angelou
 
 “Leadership is solving problems. The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help or concluded you do not care. Either case is a failure of leadership.” – Colin Powell
-
 
 
 
