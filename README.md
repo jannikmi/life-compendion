@@ -42,7 +42,7 @@ This opus is about filling the gap.
 - stay curious: there is more to learn (exploration)
 - stay critical: there are things you should change (exploitation)
 - try to identify and hit the !right! sweet spot balance in everything you do
-- it's a process. try & error
+- it's a process. trial & error
 - do not take anything for granted + be grateful
 - relax: trying the best you can is the best you can do and thereby also enough!
 
@@ -73,7 +73,7 @@ The remainder of this opus aids in navigating the inevitable challenges of life 
 
 This is basically the question of what this opus should contain.
 
-As the familiarization with our own life might clouds our thinking, lets use the bottom up thinking strategy to help compiling a list of the most relevant questions.
+As the familiarization with our own life might cloud our thinking, lets use the bottom up thinking strategy to help compiling a list of the most relevant questions.
 
 Let's consider the case where you suddenly got the task to take care of a new life, a being.
 
@@ -94,9 +94,9 @@ As the being probably has a complex physical form, keeping this form healthy is 
 
 There are many things you need to teach the little one to be independent:
 - How to educate?
+- How to learn efficiently?
 
-
-Not all tasks will be known in advance and it won't be possible to learn everything "by heart". We need to teach more abstract skills.
+Not all tasks will be known in advance, and it won't be possible to learn everything "by heart". We need to teach more abstract skills.
 
 - What skills are important in life and how can they be obtained?
 - What medical knowledge is helpful to make healthy decisions?
@@ -121,6 +121,7 @@ The being probably has instincts and emotions:
 
 As the being interactions with other beings, new questions arise:
 
+- When is it a good idea to collaborate? When to rather stay individualistic?
 - How can we collaborate efficiently?
 - What is there to know about friendship?
 - How to pick a partner?
@@ -187,7 +188,7 @@ Derived goals:
 ## Problem Solving Strategies
 
 - top down: If a problem is too big to tackle, break it down recursively until the sub-problems become manageable. Make sure to stop early to avoid getting lost in the details.
-- bottom up: When things are too complex (too many parts and interactions cloud a solution), start from scratch and one by one add only the most essential parts until progress is possible. Continue of if becomes obvious that parts are missing. This avoids setting the scope too broad to include unnecessary parts. 
+- bottom up: When things are too complex (too many parts and interactions cloud a solution), start from scratch and one by one add only the most essential parts until progress is possible. Continue if it becomes obvious that parts are missing. This avoids setting the scope too broad to include unnecessary parts. 
 - don't reinvent the wheel: search for existing solutions and use them as inspiration or baseline, reuse. event if the existing solutions are no full match, they might be good enough point to start from.
 
 
@@ -203,7 +204,7 @@ Derived goals:
 
 keep the currently most suitable mental model
 [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor): choose the most simple explanation
-stay open minded, change as soon as necessary
+stay open-minded, change as soon as necessary
 
 
 
