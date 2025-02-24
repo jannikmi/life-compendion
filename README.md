@@ -164,6 +164,25 @@ So the optimisation problem becomes even more complex, because possible actions 
 
 https://de.wikipedia.org/wiki/Mesotes
 
+## How should the world be for an ideal life?
+
+Overall goal:
+- maximised research output
+
+Derived goals:
+- robustness: the system should be tolerant to flaws and negative effects 
+- adaptability: the system should adapt easily to new terms and requirements
+- sustainability: the system must sustain live on long term
+- health: only healthy individuals can be most productive
+- non-destructiveness, peace: violence and other forms of destructive actions draw energy from the productive system
+- 
+
+
+3 Divisions like in a Company:
+- Operations: keeping the system running. producing food. healing diseases...
+- Research and Development: advancing the possibilities. utilising the advances to improve the system.
+- Management: optimising the system for the best possible output. setting the terms. 
+
 
 ## Problem Solving Strategies
 
