@@ -220,13 +220,15 @@ The importance of control and correction mechanisms.
 Wherever these measures are missing, inefficiencies and faults evolve.
 Example: ministry of statistics. wants to be seen as trustworthy. objections will be discredited. the ministry is not well controlled. the quality of the statistics is at risk.
 
-"No plaintiff, no judge." -> control mechanisms fail of
+Importance of encouraging feedback about errors. Error culture. Whistle Blowing!
 
-Importance of encouraging error correction. Whistle Blowing!
+"No plaintiff, no judge." -> control mechanisms and error correction fail if flaws do not 
 
 Can internal only control mechanisms be sufficient?
 
 Concept: Division of powers
+
+Errors are inevitable. Making mistakes and then correcting them is better than not trying to make any mistakes and hence ending up being stagnant.
 
 
 ## How to get to the truth?
