@@ -187,9 +187,8 @@ Derived goals:
 ## Problem Solving Strategies
 
 - top down: If a problem is too big to tackle, break it down recursively until the sub-problems become manageable. Make sure to stop early to avoid getting lost in the details.
-- bottom up: When things are too complex (too many parts and interactions cloud a solution), start from scratch and one by one add only the most essential parts until progress is possible. Continue of if becomes obvious that parts are missing. This avoids setting the scope to include unneccesary 
-- don't reinvent the wheel: search for existing solutions and use them as inspiration or baseline, reuse.
-
+- bottom up: When things are too complex (too many parts and interactions cloud a solution), start from scratch and one by one add only the most essential parts until progress is possible. Continue of if becomes obvious that parts are missing. This avoids setting the scope too broad to include unnecessary parts. 
+- don't reinvent the wheel: search for existing solutions and use them as inspiration or baseline, reuse. event if the existing solutions are no full match, they might be good enough point to start from.
 
 
 ## Mental Models
