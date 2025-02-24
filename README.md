@@ -246,11 +246,50 @@ stay open-minded, change as soon as necessary
 
 ## Practical Knowledge: 
 
-### Brushing Teeth
-
-### Baby Care
 
 
+Baby Care:
+
+
+## Health
+
+Harmful contaminations: Bacteria, Viruses, toxins, heavy metals, carcinogenic substances...
+
+carcinogenic substances: Mineral oils, plasticizer, microplastics, micro particels, tobacco, alcohol, pesticides (insecticides, herbicides), smoke, dust fumes, curing salt, Estrogen, burnt food (acrylamid)
+
+carcinogenic: UV Radiation, infections with viruses
+
+Washing hands: surfactants must form foam. otherwise the contaminates use up all active parts. use more. respect the recommendations of the WHO and medical professionals
+
+Devices in regular use will accumulate and distribute contamination. Wash them regularly. Examples: mobile phones, keys, laptops, head phones, ...
+
+Avoid contact with devices in regular contact with others (without being cleaned). Examples: Door knobs and public toilets
+
+Dish sponges: moist over long periods of times, promoted microbial growth. change regularly or use alternatives
+
+Brushing teeth: toothpaste is like a surfactants. there must be foam. otherwise contaminates remain on the teeth.
+
+Attention: As with everything: Don't overdo cleanliness! the fear of contamination can become more harmful (unhealthy) than the contamination itself! A fulfilling live will always have a risk of infections. Being educated about the major risk factors for infections is sufficient. 
+
+
+necessity of sport
+
+counter natural Muscle loss. with age. starting 35. degeneration of bones
+
+
+### Nutrition
+
+Sugar. Diabetes.
+
+Eat a lot of fibers. Our gut needs something to "work with".
+
+Eat organic. Less pesticides
+Bonus: long term approach, better for the environment. less nitrogen emission. higher social standards, ...
+
+
+#### problematic 
+
+Rice: arsenic
 
 ## Wisdom in quotes
 
